@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a8dc996-3459-404b-8372-c4f90aa331ff" name="Changes" comment="commit3">
+      <changelist_data name="Volkan Akcaalan" email="akcaalanvolkan@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords.numbers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Keywords.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/ProductDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/ProductDetailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Account_SignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Cart_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Cart_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Home_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Home_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/PageInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Product_Detail_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Product_Detail_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Product_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Product_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/utils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/ExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Scenario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Scenario.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2NR33myvInlsq6Vu6aHxJJklTRP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Scenario: Able to login with valid credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Home Page (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Home Page.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Scenario 1 - Home Page &gt; Product Detail Page &gt; Cart Page.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Sign-Up.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: SignUp with API.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify Signup in Database.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RunnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kadiratug/IdeaProjects/Beymen&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.RunnerClass">
+    <configuration name="Scenario: Home Page (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Scenario.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GlobalFlightBooking" />
+      <option name="NAME_FILTER" value="^Home Page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Home Page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Home Page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Home Page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GlobalFlightBooking" />
+      <option name="NAME_FILTER" value="^Home Page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Home Page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Home Page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Scenario 1 - Home Page &gt; Product Detail Page &gt; Cart Page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Scenario.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GlobalFlightBooking" />
+      <option name="NAME_FILTER" value="^Scenario 1 \- Home Page \&gt; Product Detail Page \&gt; Cart Page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Scenario 1 \- Home Page \&gt; Product Detail Page \&gt; Cart Page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Scenario 1 - Home Page &gt; Product Detail Page &gt; Cart Page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sign-Up" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GlobalFlightBooking" />
+      <option name="NAME_FILTER" value="^Sign\-Up$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign\-Up$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sign-Up" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GlobalFlightBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2e.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2e.runner" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerClass" />
+        <item itemvalue="Cucumber Java.Scenario: Scenario 1 - Home Page &gt; Product Detail Page &gt; Cart Page" />
+        <item itemvalue="Cucumber Java.Scenario: Home Page (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Home Page" />
+        <item itemvalue="Cucumber Java.Scenario: Sign-Up" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a8dc996-3459-404b-8372-c4f90aa331ff" name="Changes" comment="" />
+      <created>1679612875160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679612875160</updated>
+      <workItem from="1679612876654" duration="25192000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1679684893842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679684893842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit2">
+      <created>1679700332675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679700332675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit3">
+      <created>1679706519745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679706519745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1759083796969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083796969</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit latest changes" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
